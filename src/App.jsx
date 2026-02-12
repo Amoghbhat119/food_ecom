@@ -140,7 +140,7 @@ function App() {
         <p className="mb-8 text-gray-600">
           We are expanding across regions. Interested in retail, wholesale, or distribution partnership?
         </p>
-        <a href="https://wa.me/919999999999">
+        <a href="https://wa.me/7349205528">
           <button className="bg-red-600 text-white px-10 py-3 rounded-full shadow-lg hover:bg-red-700 transition">
             Become a Partner
           </button>
